@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecc6f7a2-d231-4d0a-8524-aeaecde6a4af" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JQda10x3fxn1XsJUnwVf3a5xPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.CodemindGlobalConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ResrSample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.codemind.RestSample" />
+      <module name="RestSample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecc6f7a2-d231-4d0a-8524-aeaecde6a4af" name="Changes" comment="" />
+      <created>1672014302906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672014302906</updated>
+      <workItem from="1672014304080" duration="11143000" />
+      <workItem from="1672105271877" duration="309000" />
+      <workItem from="1673578408188" duration="1210000" />
+      <workItem from="1673591729916" duration="782000" />
+      <workItem from="1673913002219" duration="10000" />
+      <workItem from="1674092622408" duration="857000" />
+      <workItem from="1674112165733" duration="601000" />
+      <workItem from="1676527740694" duration="14061000" />
+      <workItem from="1677042096431" duration="4580000" />
+      <workItem from="1677219201254" duration="6000" />
+      <workItem from="1677831478268" duration="1063000" />
+      <workItem from="1678079999165" duration="6770000" />
+      <workItem from="1678348847539" duration="3928000" />
+      <workItem from="1678422290034" duration="542000" />
+      <workItem from="1679011901930" duration="407000" />
+      <workItem from="1680678959426" duration="139000" />
+      <workItem from="1680685020432" duration="778000" />
+      <workItem from="1683604556372" duration="4051000" />
+      <workItem from="1685579892674" duration="4922000" />
+      <workItem from="1685593573710" duration="188000" />
+      <workItem from="1688359550088" duration="2141000" />
+      <workItem from="1688361714021" duration="599000" />
+      <workItem from="1688362547113" duration="1218000" />
+      <workItem from="1688602415342" duration="1914000" />
+      <workItem from="1688606087263" duration="11000" />
+      <workItem from="1688609083227" duration="1175000" />
+      <workItem from="1689827557366" duration="1092000" />
+      <workItem from="1689831053499" duration="99000" />
+      <workItem from="1689831182691" duration="795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
